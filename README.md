@@ -1,4 +1,4 @@
-# Kenyan Billboard Charts - Top Music in Kenya
+# Groove - Top Music in Kenya
 
 ## Description
 
@@ -7,16 +7,13 @@ This project tracks and ranks the most popular music in Kenya, inspired by Billb
 ## Features
 
 ### Data Collection
-Data collection involves a combination of manual scraping and APIs. We ensure compliance with legal and ethical standards while gathering data.
+Data collection involves a combination of manual scraping and APIs.
 
-### Ranking Algorithm
-Our custom ranking algorithm considers various factors including airplay, streaming data, and sales to rank songs. The algorithm is designed to provide a comprehensive overview of music popularity in Kenya.
-
-### Visualization
-We utilize various types of visualizations such as charts, graphs, and tables to present the data in an easily digestible format. These visualizations offer users a clear understanding of music trends and artist popularity.
 
 ### Data Updates
-The charts are updated regularly to reflect the latest music trends in Kenya.
+The charts are updated weekly to reflect the latest music trends in Kenya.
 
 ## Website
-[Kenyan Billboard Charts](#) (Placeholder link)
+[Kenyan Billboard Charts]("https://dm-groove.netlify.app") (Placeholder link)
+
+
