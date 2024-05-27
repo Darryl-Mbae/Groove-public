@@ -14,6 +14,9 @@ Data collection involves a combination of manual scraping and APIs.
 The charts are updated weekly to reflect the latest music trends in Kenya.
 
 ## Website
-[Kenyan Billboard Charts]("https://dm-groove.netlify.app") (Placeholder link)
+Groove: [Visit the website](https://dm-groove.netlify.app) (Placeholder link)
+
+![image](https://github.com/Darryl-Mbae/Groove-public/assets/102142446/7f06875b-798a-47b2-a239-64967a757420)
+
 
 
